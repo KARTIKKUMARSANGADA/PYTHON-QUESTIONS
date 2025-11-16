@@ -1,8 +1,4 @@
-"""
-Date: 18 january 2021
-Author: Sanam kandar
-Project: Student library management system
-"""
+
 
 
 class Library:
@@ -94,3 +90,4 @@ if __name__ == "__main__":
                 print("INVAILD INPUT! \n")
         except Exception as e:              
             print(f"{e}---> INVALID INPUT! \n")
+
